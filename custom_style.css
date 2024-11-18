@@ -1,3 +1,3 @@
-.type-custom-mod-card state-card-content {
+.type-custom-mod-card .card-content > state-card-content {
     display: none !important;
 }
